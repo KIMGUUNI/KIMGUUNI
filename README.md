@@ -24,9 +24,26 @@ Here are some ideas to get you started:
 </br>
 
 ## ✔ 기술스택
-(여기에 자기 소개)
-
 </br>
+<div>
+<img src="https://img.shields.io/badge/Java-%23008080?logo=Java&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=gold"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white"/>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle"/>
+<img src="https://img.shields.io/badge/mysql-%234479A1?logo=mysql&logoColor=white"/>
+</div>
+<div>
+<img src="https://img.shields.io/badge/tensorflow-%23FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-%23232F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/awslambda-%23FF9900?logo=awslambda&logoColor=white"/>
+</div>
 
 
 
