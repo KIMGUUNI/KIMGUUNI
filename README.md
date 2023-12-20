@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 >개발 기간: 2023.09.18 ~ 2023.09.22  
 >  
 >기술 스택:  
->Java 8 / Oracle
+>Java 8 / Oracle / launch4j
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 ---
 
-### 1. [YOU&I](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
+### 2. [YOU&I](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I)
 >클라우드기반 공통취미를 공유하는 지역 소모임 관리 플랫폼 (팀 프로젝트)  
 >개발 기간: 2023.11.22 ~ 2023.12.07  
 >  
