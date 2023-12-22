@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 >기술 스택:  
 >Java 8 / Oracle / launch4j
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/Kingteam/tree/master) 참고
 
 ---
 
