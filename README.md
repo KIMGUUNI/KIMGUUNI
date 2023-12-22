@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </br>
 
 ## :pushpin: Projects
-### 1. [일일 데이트권을 따내라](https://github.com/JungHyung2/gitio.io)
+### 1. [일일 데이트권을 따내라](https://github.com/KIMGUUNI/Kingteam/tree/master)
 >밸런스게임을 통해 매칭률이 가장 높은 사람과의 데이트권을 얻는 게임
 >개발 기간: 2023.09.18 ~ 2023.09.22  
 >  
@@ -68,6 +68,18 @@ Here are some ideas to get you started:
 ---
 
 ### 3. [세탁기 모터 부하 검사기기](https://github.com/JungHyung2/gitio.io)
+>세탁기 부하 검사를 위한 모터 토크제어와 속도제어 프로그램 제작 
+>개발 기간: 2018.07.16 ~ 2018.08.16  
+>  
+>기술 스택:  
+> C++ / MFC
+>  
+>[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+
+---
+
+### 4. [세탁기 모터 부하 검사기기](https://github.com/JungHyung2/gitio.io)
 >세탁기 부하 검사를 위한 모터 토크제어와 속도제어 프로그램 제작 
 >개발 기간: 2018.07.16 ~ 2018.08.16  
 >  
