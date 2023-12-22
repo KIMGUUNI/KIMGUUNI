@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kim%20Geon%20Hwi&fontSize=90" />
 
 # 김건휘 포트폴리오
 > 김건휘 - KIMGUUNI 포트폴리오
