@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 >손가락 인식 센서를 이용한 유아용 교육 로봇
 >개발 기간: 2019.01.01 ~ 2019.09.30  
 >  
->기술 스택:
+>>기술 스택:
 >
 >> H/W   
 >> Solidworks / 3D프린터   
