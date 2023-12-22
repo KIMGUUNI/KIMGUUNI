@@ -79,12 +79,18 @@ Here are some ideas to get you started:
 
 ---
 
-### 4. [세탁기 모터 부하 검사기기](https://github.com/JungHyung2/gitio.io)
->세탁기 부하 검사를 위한 모터 토크제어와 속도제어 프로그램 제작 
->개발 기간: 2018.07.16 ~ 2018.08.16  
+### 4. [LeapMotion 센서를 이용한 유아용 교육 로봇](https://github.com/JungHyung2/gitio.io)
+>손가락 인식 센서를 이용한 유아용 교육 로봇
+>개발 기간: 2019.01.01 ~ 2019.09.30  
 >  
->기술 스택:  
-> C++ / MFC
+>기술 스택:
+>
+>> H/W   
+>> Solidworks / 3D프린터   
+>> 지자기센서 / 라즈베리파이 / LeapMotion 센서
+>
+>> S/W   
+> Java
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
