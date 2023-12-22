@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 >개발 기간: 2023.09.18 ~ 2023.09.22  
 >  
 >기술 스택:  
->Java 8 / Oracle / launch4j
+>Java / Oracle / launch4j
 >  
 >[프로젝트 상세 설명](https://github.com/KIMGUUNI/Kingteam/tree/master) 참고
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 >개발 기간: 2023.11.22 ~ 2023.12.07  
 >  
 >기술 스택:  
->Java 8 / HTML / Python / js /
+>Java / HTML / Python / js /
 >Oracle / Aws / tomcat / Mybatis
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/YOU-I) 참고
