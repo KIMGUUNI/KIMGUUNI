@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 >> S/W   
 > Java
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87) 참고
 
 
 ## 📞 Contact
