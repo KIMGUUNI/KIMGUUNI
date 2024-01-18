@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 >기술 스택:  
 > C++ / MFC
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/%EC%84%B8%ED%83%81%EA%B8%B0-%EB%AA%A8%ED%84%B0-%EB%B6%80%ED%95%98-%EA%B2%80%EC%82%AC%EA%B8%B0%EA%B8%B0) 참고
 
 
 ---
