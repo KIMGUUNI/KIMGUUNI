@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## :pushpin: Projects
 ### 1. [일일 데이트권을 따내라](https://github.com/KIMGUUNI/Kingteam/tree/master)
->밸런스게임을 통해 매칭률이 가장 높은 사람과의 데이트권을 얻는 게임
+>밸런스게임을 통해 매칭률이 가장 높은 사람과의 데이트권을 얻는 게임   
 >개발 기간: 2023.09.18 ~ 2023.09.22  
 >  
 >기술 스택:  
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ---
 
 ### 3. [세탁기 모터 부하 검사기기](https://github.com/KIMGUUNI/KIMGUUNI/wiki/%EC%84%B8%ED%83%81%EA%B8%B0-%EB%AA%A8%ED%84%B0-%EB%B6%80%ED%95%98-%EA%B2%80%EC%82%AC%EA%B8%B0%EA%B8%B0)
->세탁기 부하 검사를 위한 모터 토크제어와 속도제어 프로그램 제작 
+>세탁기 부하 검사를 위한 모터 토크제어와 속도제어 프로그램 제작   
 >개발 기간: 2018.07.16 ~ 2018.08.16  
 >  
 >기술 스택:  
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ---
 
 ### 4. [LeapMotion 센서를 이용한 유아용 교육 로봇](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87)
->손가락 인식 센서를 이용한 유아용 교육 로봇
+>손가락 인식 센서를 이용한 유아용 교육 로봇    
 >개발 기간: 2019.01.01 ~ 2019.09.30  
 >  
 >>기술 스택:
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 ---
 
 ### 5. [셀레니움을 이용한 웹 크롤링](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87)
->셀레니움을 이용한 웹 크롤링
+>셀레니움을 이용한 웹 크롤링    
 >개발 기간: 2024.01.04 ~ 2024.01.11 
 >  
 >>기술 스택:
