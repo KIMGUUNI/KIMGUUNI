@@ -95,6 +95,18 @@ Here are some ideas to get you started:
 >[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87) 참고
 
 
+---
+
+### 5. [셀레니움을 이용한 웹 크롤링](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87)
+>셀레니움을 이용한 웹 크롤링
+>개발 기간: 2024.01.04 ~ 2024.01.14  
+>  
+>>기술 스택:
+> python
+>  
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87) 참고
+
+
 ## 📞 Contact
 - 이메일: gonhwi9300@gmail.com
 - 블로그: https://hyehwi.com
