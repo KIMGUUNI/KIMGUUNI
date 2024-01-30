@@ -97,14 +97,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 5. [셀레니움을 이용한 웹 크롤링](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87)
+### 5. [셀레니움을 이용한 웹 크롤링](https://github.com/KIMGUUNI/KIMGUUNI/wiki/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81)
 >셀레니움을 이용한 웹 크롤링    
 >개발 기간: 2024.01.04 ~ 2024.01.11 
 >  
 >>기술 스택:
 > python
 >  
->[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/LeapMotion-%EC%84%BC%EC%84%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%95%84%EC%9A%A9-%EA%B5%90%EC%9C%A1-%EB%A1%9C%EB%B4%87) 참고
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/KIMGUUNI/wiki/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81) 참고
 
 
 ## 📞 Contact
