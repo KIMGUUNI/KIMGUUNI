@@ -23,10 +23,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-%23008080?logo=Java&logoColor=gold"/>
 <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=gold"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-%236DB33F?logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2361DAFB?logo=react&logoColor=white"/>
+
 </div>
 <div>
 <img src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle"/>
@@ -37,6 +40,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazonaws-%23232F3E?logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/awslambda-%23FF9900?logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonec2-%23FF9900?logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%232496ED?logo=docker&logoColor=white"/>
 </div>
 
 
